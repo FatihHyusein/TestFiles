@@ -1,0 +1,12 @@
+What gives angular:
+
+Templating
+Data-binding
+routing
+clean, modular, reusable architecture
+security
+additional functions/features for convenience
+
+Why angular
+*google
+*stack overflow tag community...
